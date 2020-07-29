@@ -1,2 +1,2 @@
 # powerbirepo
-Repository for Power BI
+Repository for Power BI images
